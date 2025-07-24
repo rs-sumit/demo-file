@@ -11,7 +11,7 @@
       4.  (change the file whatever you want to do and save) after saving file status will be show in file.
       5.  git add <file name>            //for adding file(we can use "git add .")for add all file
       6.  git commit -m "<some statement>"        //for committing change(in local computer)
-      7.  git puch origin main            //for upload on git hub
+      7.  git push origin main            //for upload on git hub
        
       
 # FOR CREATING NEW REPOSITORY FROM LOCAL COMPUTER
